@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "Twitter Setting Saver",
+     "description": "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription": {
+    "message": "Keeps you on that Latest view, even though Twitter thinks it knows best.",
+    "description": "The extension's description, seen in gallery and extensions page"
+  },
+  "watchMe": {
+    "message": "Top Tweets on",
+    "description": "The Aria label that indicates we've been ratfucked."
+  },
+  "busted": {
+    "message": "Fixing Twitter so you see latest tweets first.",
+    "description": "The alert message that lets us know twitter is about to be fixed."
+  }
+}
