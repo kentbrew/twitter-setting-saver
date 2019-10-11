@@ -8,4 +8,8 @@ If you're not an English speaker this won't work because the Aria label for your
 
 ## Try It
 
+Chrome: 
 https://chrome.google.com/webstore/detail/twitter-setting-saver/mkflpeaedkaekekldcemjhcpndibgabo
+
+Firefox:
+https://addons.mozilla.org/en-US/firefox/addon/twitter-setting-saver/
